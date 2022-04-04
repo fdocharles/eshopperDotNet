@@ -1,0 +1,67 @@
+{
+    "products" : [
+        {
+            "title" : "MEMORYLAND WW DRESS" , 
+            "id" : 1 , 
+            "image" : "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/cf833837bc294e5d76115e6a3b5935b2460c2a80.jpg",
+            "category" : "Dresses",
+            "price" : "36.99",
+            "rating" : 4,
+            "description" : "Composition:100% Polyester Length (UK 10):Knee 37 Sleeve:Elbow Pleats Wrap"
+        },
+        {
+            "title" : "EARLY NIGHT EVENING WEAR DRESS ( PREMIUM ED. )" , 
+            "id" : 2 , 
+            "image" : "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/7c3654f83938d4e985000762606180380f60843c.jpg",
+            "category" : "Dresses",
+            "price" : "41.99",
+            "rating" : 4,
+            "description" : "Composition:100% Polyester Length:Maxi  53 Long Sleeve Elbow Sleeve pleated Maxi Length Printed Side Zipper"
+        },
+        {
+            "title" : "BEAUTY DRESS" , 
+            "id" : 3 , 
+            "image" : "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/bbd8477400b7019b6247f790b886c058cb3b648d.jpg",
+            "category" : "Dresses",
+            "price" : "31.99",
+            "rating" : 5,
+            "description" : "COMPOSITION:100% Polyester LENGTH:Maxi 53'' SLEEVE:Puff Sleeve  Square Neck Sleeve Elastic Side Zipper"
+        },
+        {
+            "title" : "SUMMER CRAZE DRESS" , 
+            "id" : 4 , 
+            "image" : "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/e367945c0419e0688e21f279517d56d1aeed5889.jpg",
+            "category" : "Dresses",
+            "price" : "28.99",
+            "rating" : 4,
+            "description" : "COMPOSITION:100% Polyester LENGTH:Maxi Length - 51'' SLEEVE:Straps Adjustble Straps Back Top Body Smocked Front Top Open With Plastic Buttons Side Invisible Zipper Semi Fitted Solid Woven Fabric"
+        },
+        {
+            "title" : "RIPPED WIDE LEG JEAN" , 
+            "id" : 5 , 
+            "image" : "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/becfaac93c0f73889765a44bc33b1b04c48c7580.jpg",
+            "category" : "Denims",
+            "price" : "43.99",
+            "rating" : 4,
+            "description" : "Material composition :74% Cotton 26% Lycocell Length:In seam 27  Wide leg loost fit  Riipp"
+        },
+        {
+            "title" : "DENIM SKIRT" , 
+            "id" : 6 , 
+            "image" : "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/d457484c4b2bd49b0cbafe26cf6b27ba69b4ef62.jpg",
+            "category" : "Denims",
+            "price" : "23.99",
+            "rating" : 3,
+            "description" : "Material composition :74% Cotton 26% Lycocell Length:Short 16 Short Skirt 5 button fly  Ripped"
+        },
+        {
+            "title" : "MID WAIST DENIM PANT WITH RAW HEM" , 
+            "id" : 7 , 
+            "image" : "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/b1d205f5fd561642f9fbd21221f84f4924417bb2.jpg",
+            "category" : "Denims",
+            "price" : "35.99",
+            "rating" : 4,
+            "description" : "Material : 69% Telcel 28%Rayon 3%Spandex Length : Long Length With Raw hem"
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "name": "MEMORYLAND WW DRESS",
+    "id": 1,
+    "featured": true,
+    "size": ["Small", "Medium", "Large", "Extra Large"],
+    "image": "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/cf833837bc294e5d76115e6a3b5935b2460c2a80.jpg",
+    "category": "Dresses",
+    "price": "36.99",
+    "rating": 4,
+    "description": "Composition:100% Polyester Length (UK 10):Knee 37 Sleeve:Elbow Pleats Wrap",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Jani C",
+        "comment": "This will be a dress is so comfortable! Although I bought it to travel, I think it will be used daily when I get back.",
+        "rating": 4
+      },
+      {
+        "id": 2,
+        "name": "anonymous",
+        "comment": "Such a fun, comfortable look for spring/summer! Great to wear to work or out to the wineries! Throw on a pair of sneakers or sandals and you're ready to go!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "EARLY NIGHT EVENING WEAR DRESS",
+    "id": 2,
+    "size": ["Small", "Medium", "Large"],
+    "image": "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/7c3654f83938d4e985000762606180380f60843c.jpg",
+    "category": "Dresses",
+    "price": "41.99",
+    "rating": 4,
+    "description": "Composition:100% Polyester Length:Maxi  53 Long Sleeve Elbow Sleeve pleated Maxi Length Printed Side Zipper",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Whitney J",
+        "comment": "So pretty, delicate looking and covers beautifully! Very happy with my purchase!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "BEAUTY DRESS",
+    "id": 3,
+    "size": ["Small", "Large", "Extra Large"],
+    "image": "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/bbd8477400b7019b6247f790b886c058cb3b648d.jpg",
+    "category": "Dresses",
+    "price": "31.99",
+    "rating": 5,
+    "description": "COMPOSITION:100% Polyester LENGTH:Maxi 53'' SLEEVE:Puff Sleeve  Square Neck Sleeve Elastic Side Zipper",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Imev",
+        "comment": "Length is perfect ! Bought in petite will be great to wear in warmer weather for casual evening out !",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "name": "SUMMER CRAZE DRESS",
+    "id": 4,
+    "size": ["Small", "Medium", "Large", "Extra Large"],
+    "image": "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/e367945c0419e0688e21f279517d56d1aeed5889.jpg",
+    "category": "Dresses",
+    "price": "28.99",
+    "featured": true,
+    "rating": 4,
+    "description": "COMPOSITION:100% Polyester LENGTH:Maxi Length - 51'' SLEEVE:Straps Adjustble Straps Back Top Body Smocked Front Top Open With Plastic Buttons Side Invisible Zipper Semi Fitted Solid Woven Fabric",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "anonymous",
+        "comment": "I absolutely love this dress and am thinking of ordering the peach colour. I am a very tall woman and it comes to the floor my new favourite for summer.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "Jamie V",
+        "comment": "I like the material and the print, Had to shorten the length as I am 5'3 and would trip on it.",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "name": "anonymous",
+        "comment": "Elle fait parfaitement",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "RIPPED WIDE LEG JEAN",
+    "id": 5,
+    "size": ["Small", "Medium", "Large", "Extra Large"],
+    "image": "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/becfaac93c0f73889765a44bc33b1b04c48c7580.jpg",
+    "category": "Denims",
+    "price": "43.99",
+    "featured": true,
+    "rating": 4,
+    "description": "Material composition :74% Cotton 26% Lycocell Length:In seam 27  Wide leg loost fit  Riipp",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Caitlin C",
+        "comment": "These Kicker jeans are my new favorite jeans! I'm 5' 5 150 lbs ordered size 10 and exchanged them for size 8. Just enough stretch to be comfortable, but not too much to stretch to baggy.",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "DENIM SKIRT",
+    "id": 6,
+    "size": ["Medium", "Large", "Extra Large"],
+    "image": "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/d457484c4b2bd49b0cbafe26cf6b27ba69b4ef62.jpg",
+    "category": "Denims",
+    "price": "23.99",
+    "rating": 3,
+    "featured": true,
+    "description": "Material composition :74% Cotton 26% Lycocell Length:Short 16 Short Skirt 5 button fly  Ripped",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "anonymous , 2 days ago",
+        "comment": "The best jeans I've bought in a long time! They're flattering and I got them on sale!",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "Maureen c , 5 days ago",
+        "comment": "These fit nicely and look great!",
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "name": "MID WAIST DENIM PANT WITH RAW HEM",
+    "id": 7,
+    "size": ["Small", "Medium", "Extra Large"],
+    "image": "https://s3.ap-south-1.amazonaws.com/www.kellyfelder.com/gallery/b1d205f5fd561642f9fbd21221f84f4924417bb2.jpg",
+    "category": "Denims",
+    "price": "35.99",
+    "featured": true,
+    "rating": 4,
+    "description": "Material : 69% Telcel 28%Rayon 3%Spandex Length : Long Length With Raw hem",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Sarah L , 12 days ago",
+        "comment": "Great jeans. I'm 5 ft. 5 in. and the short length is perfect. They are comfortable. I just bought two new pair.",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "anonymous , 2 days ago",
+        "comment": "Was very happy with my purchase! Wasn't sure on the size but they are a Perfect fit! Very nice quality pair of jeans, I'm sure they will last me a long time!",
+        "rating": 5
+      }
+    ]
+  }
+]

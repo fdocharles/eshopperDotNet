@@ -1,0 +1,32 @@
+{
+  "name": "hh",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "core-js": "^3.6.5",
+    "v-rating": "^1.1.2",
+    "vue": "^2.6.11",
+    "vue-axios": "^3.4.1",
+    "vue-fragment": "1.5.1",
+    "vue-router": "^3.2.0",
+    "vue-star-rating": "^1.7.0",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
